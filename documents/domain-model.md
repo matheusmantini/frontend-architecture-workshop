@@ -8,8 +8,6 @@
 - `ShoppingCart`
 - `RestaurantOrder`
 - `FoodItem`
-- `Discount`
-- `PaymentMethods`
 
 ## Attributes and Operations
 
